@@ -34,24 +34,6 @@
 
 ## 📫 Get in Touch
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-top: 20px;">
-  <a href="https://pvi.sh" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/arc.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="vertical-align: middle;">Website</span>
-  </a>
-  
-  <a href="mailto:phil@underscore.games" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/gmail.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="vertical-align: middle;">Email</span>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/philipvishnevsky/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/linkedin.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="vertical-align: middle;">LinkedIn</span>
-  </a>
-  
-  <a href="https://fantastical.app/philvishnevsky" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/fantastical.png" width="30" height="30" style="margin-right: 8px;">
-    <span style="vertical-align: middle;">Book a Call</span>
-  </a>
-</div>
+| [![Website](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/arc.svg)](https://pvi.sh) | [![Email](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/gmail.svg)](mailto:phil@underscore.games) | [![LinkedIn](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/linkedin.svg)](https://www.linkedin.com/in/philipvishnevsky/) | [![Call](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/fantastical.png)](https://fantastical.app/philvishnevsky) |
+|:--:|:--:|:--:|:--:|
+| Website | Email | LinkedIn | Book a Call |
