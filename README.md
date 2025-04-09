@@ -34,16 +34,6 @@
 
 ## 📫 Get in Touch
 
-| [![Website](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/arc.svg)](https://pvi.sh) | [![Email](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/gmail.svg)](mailto:phil@underscore.games) | [![LinkedIn](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/linkedin.svg)](https://www.linkedin.com/in/philipvishnevsky/) | [![Call](https://github.com/zenatron/svgs/raw/refs/heads/main/logos/fantastical.png)](https://fantastical.app/philvishnevsky) |
+| <a href="https://pvi.sh"><img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/arc.svg" width="36" height="36" alt="Website"></a> | <a href="mailto:phil@underscore.games"><img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/gmail.svg" width="36" height="36" alt="Email"></a> | <a href="https://www.linkedin.com/in/philipvishnevsky/"><img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/linkedin.svg" width="36" height="36" alt="LinkedIn"></a> | <a href="https://fantastical.app/philvishnevsky"><img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/fantastical.png" width="36" height="36" alt="Call"></a> |
 |:--:|:--:|:--:|:--:|
 | Website | Email | LinkedIn | Book a Call |
-
-<style>
-  img[alt="Website"],
-  img[alt="Email"],
-  img[alt="LinkedIn"],
-  img[alt="Call"] {
-    width: 36px;
-    height: 36px;
-  }
-</style>
