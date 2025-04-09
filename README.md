@@ -37,21 +37,21 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-top: 20px;">
   <a href="https://pvi.sh" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/arc.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="justify-content: center;">Website</span>
+    <span style="vertical-align: middle;">Website</span>
   </a>
   
   <a href="mailto:phil@underscore.games" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/gmail.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="justify-content: center;">Email</span>
+    <span style="vertical-align: middle;">Email</span>
   </a>
   
   <a href="https://www.linkedin.com/in/philipvishnevsky/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/linkedin.svg" width="30" height="30" style="margin-right: 8px;">
-    <span style="justify-content: center;">LinkedIn</span>
+    <span style="vertical-align: middle;">LinkedIn</span>
   </a>
   
   <a href="https://fantastical.app/philvishnevsky" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://github.com/zenatron/svgs/raw/refs/heads/main/logos/fantastical.png" width="30" height="30" style="margin-right: 8px;">
-    <span style="justify-content: center;">Book a Call</span>
+    <span style="vertical-align: middle;">Book a Call</span>
   </a>
 </div>
