@@ -1,6 +1,7 @@
 # Hi there, I'm Phil! 👋
+Let's build something amazing together.
 
-## Build Smarter. Solve Faster.
+## "Build Smarter. Solve Faster."
 
 ## ⚙️ Technologies & Languages
 
