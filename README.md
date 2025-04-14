@@ -35,9 +35,6 @@ Let's build something amazing together.
   <img src=https://github.com/devicons/devicon/raw/refs/heads/master/icons/blender/blender-original.svg width="30" height="30">
 </div>
 
-## 📊 Coding Activity
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zenatron&theme=catppuccin-mocha"/></a>
-
 ## 📫 Get in Touch
 
 | <a href="https://pvi.sh"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/arc.svg" width="36" height="36" alt="Website"></a> | <a href="mailto:phil@underscore.games"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/gmail.svg" width="36" height="36" alt="Email"></a> | <a href="https://www.linkedin.com/in/philipvishnevsky/"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/linkedin.svg" width="36" height="36" alt="LinkedIn"></a> | <a href="https://bsky.app/profile/zenatron"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/bluesky.svg" width="36" height="36" alt="Bluesky"></a> | <a href="https://discord.com/users/492872848025583616"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/discord.svg" width="36" height="36" alt="Discord"></a> | <a href="https://fantastical.app/philvishnevsky"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/fantastical.png" width="36" height="36" alt="Book a Call"></a> |
