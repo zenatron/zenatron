@@ -36,7 +36,7 @@ Let's build something amazing together.
 </div>
 
 ## 📊 Coding Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zenatron)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zenatron&theme=catppuccin-mocha"/></a>
 
 ## 📫 Get in Touch
 
