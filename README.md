@@ -37,7 +37,7 @@ Let's build something amazing together.
 
 ## 📫 Get in Touch
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center; text-align: center;">
   <a href="https://pvi.sh"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/arc.svg" width="36" height="36" alt="Website"></a>
   <a href="mailto:phil@underscore.games"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/gmail.svg" width="36" height="36" alt="Email"></a>
   <a href="https://www.linkedin.com/in/philipvishnevsky/"><img src="https://github.com/zenatron/zenatron/raw/refs/heads/main/logos/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
