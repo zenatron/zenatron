@@ -22,6 +22,7 @@ Let's build something amazing together.
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cpp.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/csharp.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tex.svg width="24" height="24">
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/markdown.svg width="24" height="24">
   <!-- Web/Frontend Frameworks -->
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/next.svg width="24" height="24">
