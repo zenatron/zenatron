@@ -9,7 +9,8 @@ Let's build something amazing together.
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/ruby.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/rust.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg width="24" height="24">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/kubernetes.svg width="24" height="24">
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cuda.svg width="24" height="24">
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/go.svg width="24" height="24">
 </div>
 
 ## ⚙️ Technologies & Languages
@@ -34,6 +35,7 @@ Let's build something amazing together.
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/pnpm.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vercel.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/prisma.svg width="24" height="24">
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/prettier.svg width="24" height="24">
   <!-- Data & Science -->
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/database.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/jupyter.svg width="24" height="24">
