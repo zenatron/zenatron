@@ -2,7 +2,7 @@
 
 Let's build something amazing together.
 
-## "Build Smarter. Solve Faster."
+#### Philosophy: "Build Smarter. Solve Faster."
 
 ## 🧠 Currently Learning
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
