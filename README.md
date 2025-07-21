@@ -3,7 +3,7 @@
 Let's build something amazing together.
 
 #### Philosophy: "Build Smarter. Solve Faster."
-
+---
 ## 🧠 Currently Learning
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/ruby.svg width="24" height="24">
