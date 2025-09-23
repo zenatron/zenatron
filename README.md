@@ -6,25 +6,22 @@ Let's build something amazing together.
 ---
 ## 🧠 Currently Learning
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/ruby.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/rust.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cuda.svg width="24" height="24">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/go.svg width="24" height="24">
+  <!-- <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/go.svg width="24" height="24"> -->
 </div>
 
 ## ⚙️ Technologies & Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <!-- Languages -->
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg width="24" height="24">
+  <!-- Real languages -->
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cpp.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/python.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/java.svg width="24" height="24">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cpp.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/csharp.svg width="24" height="24">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tex.svg width="24" height="24">
-  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/markdown.svg width="24" height="24">
-  <!-- Web/Frontend Frameworks -->
+  <!-- Web stuff -->
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/next.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tailwindcss.svg width="24" height="24">
@@ -37,6 +34,8 @@ Let's build something amazing together.
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/prisma.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/prettier.svg width="24" height="24">
   <!-- Data & Science -->
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tex.svg width="24" height="24">
+  <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/markdown.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/database.svg width="24" height="24">
   <img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/jupyter.svg width="24" height="24">
   <!-- Game Development -->
