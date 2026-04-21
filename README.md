@@ -12,8 +12,11 @@ Let's build something amazing together.
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cuda.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg width="24" height="24"></td>
+<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/astro.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/next.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tailwindcss.svg width="24" height="24"></td>
+<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vagrant.svg width="24" height="24"></td>
+<!-- <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/yaml.svg width="24" height="24"></td> -->
 </tr></table>
 
 ## ⚙️ Technologies & Languages
@@ -26,6 +29,7 @@ Let's build something amazing together.
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/git.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/console.svg width="24" height="24"></td>
+<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/bun.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/pnpm.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vercel.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/prisma.svg width="24" height="24"></td>
