@@ -6,18 +6,28 @@ Let's build something amazing together.
 ---
 ## 🧠 Currently Learning
 
+### languages
 <table><tr>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/rust.svg width="24" height="24"></td>
-<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cuda.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg width="24" height="24"></td>
+<!-- <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/yaml.svg width="24" height="24"></td> -->
+</tr></table>
+
+### frameworks
+<table><tr>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/astro.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/next.svg width="24" height="24"></td>
 <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tailwindcss.svg width="24" height="24"></td>
-<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vagrant.svg width="24" height="24"></td>
-<!-- <td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/yaml.svg width="24" height="24"></td> -->
 </tr></table>
+
+### infra
+<table><tr>
+<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg width="24" height="24"></td>
+<td><img src=https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vagrant.svg width="24" height="24"></td>
+</tr></table>
+
 
 ## ⚙️ Technologies & Languages
 
