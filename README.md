@@ -1,6 +1,10 @@
 # Hi there, I'm Phil! 👋
 
-<img width="1280" height="420" alt="githubneofetch2x" src="https://github.com/user-attachments/assets/9aee41df-91a2-4016-a983-fe90556ac4b3" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-light.png">
+  <img width="1280" height="400" alt="Phil Vishnevsky — building servers, web apps and games that don't break in production" src="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-dark.png">
+</picture>
 
 ## 📫 Get in Touch
 
