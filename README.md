@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-light.png">
-  <img width="1280" height="400" alt="Phil Vishnevsky — building servers, web apps and games that don't break in production" src="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-dark.png">
+  <img width="100%" alt="Phil Vishnevsky — building servers, web apps and games that don't break in production" src="https://raw.githubusercontent.com/zenatron/zenatron/main/banners/gh-dark.png">
 </picture>
 
 ## 📫 Get in Touch
